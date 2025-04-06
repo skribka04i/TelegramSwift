@@ -21,4 +21,4 @@ url=https://github.com/desktop-app/libprisma.git
 url = https://github.com/boostorg/regex.git
 [submodule "submodules/telegram-ios"]
 	path = submodules/telegram-ios
-url=https://github.com/overtake/Telegram-iOS.git
+url=https://github.com/skribka04i/Telegram-iOS
