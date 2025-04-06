@@ -22,3 +22,4 @@ url = https://github.com/boostorg/regex.git
 [submodule "submodules/telegram-ios"]
 	path = submodules/telegram-ios
 url=https://github.com/skribka04i/Telegram-iOS
+    	branch = yes
